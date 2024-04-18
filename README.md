@@ -33,6 +33,9 @@ All this  with nice looking graphic user interface, by me...
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Images
-![Example Image](icon.png)
-![Example Image](Example.png)
+the user interface designed for a certain type of people... 
+#
+[Icon Image](icon.png) 
+#
+[UI Image](Example.png)
 
